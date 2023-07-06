@@ -1,2 +1,2 @@
 #!/bin/bash
-touvh betty
+touch betty
